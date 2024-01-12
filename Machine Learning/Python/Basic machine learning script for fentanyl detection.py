@@ -37,3 +37,5 @@ report = classification_report(y_test, predictions)
 # Print results
 print(f'Accuracy: {accuracy:.2f}')
 print('\nClassification Report:\n', report)
+
+#NOTE: Need a more sophisticated feature extraction process, hyperparameter tuning, & potentially a more complex model. Additionally, consider using more advanced techniques such as deep learning if your dataset is large & complex.
