@@ -1,58 +1,58 @@
 #Example features that might be relevant for fentanyl detection:
 
 Chemical Composition:
-Presence of specific chemical elements or compounds associated with fentanyl.
-Concentrations of key chemical constituents.
-Molecular weight and structure.
+- Presence of specific chemical elements or compounds associated with fentanyl.
+- Concentrations of key chemical constituents.
+- Molecular weight and structure.
 
 Physical Properties:
-Vapor pressure and volatility.
-Density and specific gravity.
-Melting and boiling points.
+- Vapor pressure and volatility.
+- Density and specific gravity.
+- Melting and boiling points.
 
 Sensory Characteristics:
-Odor intensity and descriptors.
-Color changes or visual characteristics.
-Taste or other sensory properties.
+- Odor intensity and descriptors.
+- Color changes or visual characteristics.
+- Taste or other sensory properties.
 
 Environmental Factors:
-Temperature and humidity levels.
-Atmospheric pressure.
-Presence of specific contaminants or interfering substances.
+- Temperature and humidity levels.
+- Atmospheric pressure.
+- Presence of specific contaminants or interfering substances.
 
-Behavior - Different Conditions:
-#Solubility in different solvents.
-Reactivity under various environmental conditions.
+Behavior in Different Conditions:
+- Solubility in different solvents.
+- Reactivity under various environmental conditions.
 
 Electromagnetic Properties:
-Infrared spectra and absorption patterns.
-UV-Visible spectra.
-NMR (Nuclear Magnetic Resonance) characteristics.
+- Infrared spectra and absorption patterns.
+- UV-Visible spectra.
+- NMR (Nuclear Magnetic Resonance) characteristics.
 
 Sensor Readings:
-Data from chemical sensors, including gas sensors.
-Response patterns from specific sensing technologies.
-Electrochemical sensor outputs.
+- Data from chemical sensors, including gas sensors.
+- Response patterns from specific sensing technologies.
+- Electrochemical sensor outputs.
 
 Biological Interactions:
-Effects on biological systems.
-Specific interactions with enzymes or receptors.
+- Effects on biological systems.
+- Specific interactions with enzymes or receptors.
 
 Geographical and Contextual Data:
-Location and geographical information.
-Time of day and season.
-Contextual information such as the type of area (urban, rural).
+- Location and geographical information.
+- Time of day and season.
+- Contextual information such as the type of area (urban, rural).
 
 Historical Data:
-#Previous instances of fentanyl presence in the same or nearby locations.
-#Trends or patterns in historical data.
+- Previous instances of fentanyl presence in the same or nearby locations.
+- Trends or patterns in historical data.
 
 Machine Learning-Generated Features:
-Features extracted through advanced algorithms, such as principal component analysis (PCA) or deep learning-based feature representations.
+- Features extracted through advanced algorithms, such as principal component analysis (PCA) or deep learning-based feature representations.
 
 Physical Form:
-Solid, liquid, or gas state.
-Particle size distribution.
+- Solid, liquid, or gas state.
+- Particle size distribution.
 
 ***Relevance of features depends on the specific detection technology and the deployment context. 
 ***Real-world datasets would be generated from sensor readings, analytical instruments, or other sources depending on the chosen detection approach. 
